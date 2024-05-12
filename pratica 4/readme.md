@@ -1,5 +1,4 @@
-Código baseado no repositório  da professora [Krissia](https://github.com/krissiazawadzki/Lab_Fisica_Geral_2024/blob/main/pratica_1/pratica_1.ipynb) 
-, porém modificado para melhor servir aos propósitos dos experimentos da prática 4 do lab de física.
+Código baseado no [repositório](https://github.com/krissiazawadzki/Lab_Fisica_Geral_2024/blob/main/pratica_1/pratica_1.ipynb)   da professora Krissia, porém modificado para melhor servir aos propósitos dos experimentos da prática 4 do lab de física.
 
 Mudanças:
 
