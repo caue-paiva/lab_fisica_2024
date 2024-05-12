@@ -2,7 +2,7 @@ Código baseado no [repositório](https://github.com/krissiazawadzki/Lab_Fisica_
 
 Mudanças:
 
-1) Dados inteiros com intervalos de 1 grau form considerados, levando a um processo de criação dos bins dos gráfico
+1) Dados inteiros com intervalos de 1 grau foram considerados, levando a um processo de criação dos bins dos gráfico
 um pouco diferente
 
 2) os intervalos também modificaram um pouco o cálculo da variável x_fit
